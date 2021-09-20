@@ -14,3 +14,6 @@ The outcome for each person is a binary classification whether that person survi
 * Fare - repressents one's fare (a float value)
 * Cabin - represents one's cabin number (a string containing a letter and a number)
 * Embarked - represents one's port of embarkation (3 different values - C (Cherbourg), Q (Queenstown), S (Southampton))
+
+# Score
+The best achieved score on kaggle was 78.2%.
